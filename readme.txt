@@ -1,1 +1,0 @@
-check branches for all available server templates
